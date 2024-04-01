@@ -1,0 +1,24 @@
+{
+    "topImg":[
+        "./images/comp1.png",
+        "./images/comp2.png",
+        "./images/comp3.png",
+        "./images/comp4.png",
+        "./images/comp5.png",
+        "./images/comp6.png",
+        "./images/comp7.png",
+        "./images/comp8.png",
+        "./images/comp9.png"
+      ],
+      "bottomImg":[
+        "./images/comp10.png",
+        "./images/comp11.png",
+        "./images/comp12.png",
+        "./images/comp13.png",
+        "./images/comp14.png",
+        "./images/comp15.png",
+        "./images/comp16.png",
+        "./images/comp17.png",
+        "./images/comp18.png"
+      ]
+}

@@ -1,0 +1,9 @@
+{
+    "logiconImg" :[
+        {"이미지" : "./images/footericon1.png", "이름":"카카오"},
+        {"이미지" : "./images/footericon2.png", "이름":"구글"},
+        {"이미지" : "./images/footericon3.png", "이름":"깃허브"},
+        {"이미지" : "./images/footericon4.png", "이름":"애플"}
+    ],
+    "logoImg" : "./images/brand_logo.png"
+}

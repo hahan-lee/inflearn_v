@@ -1,0 +1,19 @@
+{
+    "iconImg" : [
+        {"img":"./images/s2icon1.png","text":"# 부트캠프"},
+        {"img":"./images/s2icon2.png","text":"# 스프링"},
+        {"img":"./images/s2icon3.png","text":"# 게임개발"},
+        {"img":"./images/s2icon4.png","text":"# UX UI"},
+        {"img":"./images/s2icon5.png","text":"# ChatGPT"},
+        {"img":"./images/s2icon6.png","text":"# 신규강의"},
+        {"img":"./images/s2icon7.png","text":"# 코딩테스트"},
+        {"img":"./images/s2icon8.png","text":"# 마케팅"},
+        {"img":"./images/s2icon9.png","text":"# 프론트엔드"},
+        {"img":"./images/s2icon10.png","text":"# 보안"},
+        {"img":"./images/s2icon11.png","text":"# 엑셀"},
+        {"img":"./images/s2icon12.png","text":"# 데브옵스"},
+        {"img":"./images/s2icon13.png","text":"# 데이터"},
+        {"img":"./images/s2icon14.png","text":"# 파이썬"},
+        {"img":"./images/s2icon15.png","text":"# 신규강의"}
+    ]
+}
